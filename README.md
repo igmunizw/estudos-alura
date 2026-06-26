@@ -10,4 +10,4 @@ Este repositório centraliza meus estudos, exercícios e projetos desenvolvidos 
 - [ ] **Cibersegurança**
 
 ## 📂 Projetos em Destaque
-* [Sabor Express](https://github.com/igmunizw/estudos-alura/blob/main/app.py) - Aplicação de linha de comando para gerenciamento de restaurantes.
+* [Sabor Express](https://github.com/igmunizw/estudos-alura/blob/main/python-primeira-aplicacao/app.py) - Aplicação de linha de comando para gerenciamento de restaurantes.
